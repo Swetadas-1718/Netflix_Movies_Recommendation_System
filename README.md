@@ -1,4 +1,4 @@
-# Netflix Movies Recommendation System
+# Netflix Movie Recommendation System
 ![image](https://user-images.githubusercontent.com/71088477/127536227-2a886087-fd33-497e-a228-2907d012dcc5.png)
 
 ## Business Problem
